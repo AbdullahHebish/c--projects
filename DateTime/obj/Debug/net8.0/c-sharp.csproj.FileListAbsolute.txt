@@ -1,0 +1,14 @@
+/home/abdullah/Desktop/c-sharp/bin/Debug/net8.0/c-sharp
+/home/abdullah/Desktop/c-sharp/bin/Debug/net8.0/c-sharp.deps.json
+/home/abdullah/Desktop/c-sharp/bin/Debug/net8.0/c-sharp.runtimeconfig.json
+/home/abdullah/Desktop/c-sharp/bin/Debug/net8.0/c-sharp.dll
+/home/abdullah/Desktop/c-sharp/bin/Debug/net8.0/c-sharp.pdb
+/home/abdullah/Desktop/c-sharp/obj/Debug/net8.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/Desktop/c-sharp/obj/Debug/net8.0/c-sharp.AssemblyInfoInputs.cache
+/home/abdullah/Desktop/c-sharp/obj/Debug/net8.0/c-sharp.AssemblyInfo.cs
+/home/abdullah/Desktop/c-sharp/obj/Debug/net8.0/c-sharp.csproj.CoreCompileInputs.cache
+/home/abdullah/Desktop/c-sharp/obj/Debug/net8.0/c-sharp.dll
+/home/abdullah/Desktop/c-sharp/obj/Debug/net8.0/refint/c-sharp.dll
+/home/abdullah/Desktop/c-sharp/obj/Debug/net8.0/c-sharp.pdb
+/home/abdullah/Desktop/c-sharp/obj/Debug/net8.0/c-sharp.genruntimeconfig.cache
+/home/abdullah/Desktop/c-sharp/obj/Debug/net8.0/ref/c-sharp.dll
